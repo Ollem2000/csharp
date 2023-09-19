@@ -1,8 +1,8 @@
-using system;
+using System;
 
 class Program{
 	public static void Main(string[] args){
-		String nome, senha;
+		String name, password;
 		
 		Console.WriteLine("Digite o nome do usuário");
 		name = Console.ReadLine();
